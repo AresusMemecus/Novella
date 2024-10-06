@@ -1,0 +1,5 @@
+screens:
+  default:
+    background: img/backgrounds/room.webp
+  coffe:
+    background: img/backgrounds/coffe.webp
