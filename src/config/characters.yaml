@@ -44,5 +44,14 @@ characters:
     style:
       color: white
     name: Malinki
+  adelina:
+    sprites:
+      idle: 
+        image: adelina.webp
+        width: 256
+        height: 256
+    style:
+      color: white
+    name: Adelina
 
 
