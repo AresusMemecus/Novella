@@ -35,10 +35,10 @@ characters:
     style:
       color: white
     name: Assistant
-  malinki:
+  malinka:
     sprites:
       idle: 
-        image: malinki.webp
+        image: malinka.webp
         width: 256
         height: 256
     style:
