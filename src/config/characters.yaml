@@ -53,7 +53,7 @@ characters:
     style:
       color: white
     name: Adelaida
- mother:
+  mother:
     sprites:
       idle: 
         image: mother.webp
