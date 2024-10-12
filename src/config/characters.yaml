@@ -42,8 +42,8 @@ characters:
         width: 256
         height: 256
     style:
-      color: white
-    name: Malinki
+      color: pink
+    name: Malinka
   adelina:
     sprites:
       idle: 
@@ -52,6 +52,14 @@ characters:
         height: 256
     style:
       color: white
-    name: Adelina
-
+    name: Adelaida
+ mother:
+    sprites:
+      idle: 
+        image: mother.webp
+        width: 256
+        height: 256
+    style:
+      color: white
+    name: Mama
 
