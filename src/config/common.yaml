@@ -33,18 +33,6 @@ layout:
 notifications:
   timeOnScreen: 1.5
   alsoPrintInDialogue: true
-hudStats:
-  money:
-    icon: img/ui/money.webp
-    name: Money
-    startingValue: 10
-    minValue: 0
-  energy:
-    icon: img/ui/energy.webp
-    name: Energy
-    startingValue: 10
-    minValue: 0
-    maxValue: 10
 saves:
   mode: manual
   slots: 10

@@ -8,7 +8,7 @@ characters:
   player:
     sprites:
       idle:
-        image: oliver.webp
+        image: Oliver.webp
         width: 256
         height: 256
     style:
@@ -20,25 +20,25 @@ characters:
   assistant:
     sprites:
       idle: 
-        image: assistant.webp
+        image: Assistant.webp
         width: 256
         height: 256
     style:
       color: white
     name: Assistant
-  assistant_updated:
+  assistentMerti:
     sprites:
       idle: 
-        image: assistant_updated.webp
+        image: AssistentMerti.webp
         width: 256
         height: 256
     style:
       color: white
-    name: Assistant
+    name: Assistent Merti
   malinka:
     sprites:
       idle: 
-        image: malinka.webp
+        image: Malinka.webp
         width: 256
         height: 256
     style:
@@ -47,19 +47,30 @@ characters:
   adelina:
     sprites:
       idle: 
-        image: adelina.webp
+        image: Adelind.webp
         width: 256
         height: 256
     style:
       color: white
     name: Adelaida
-  mother:
+  mama:
     sprites:
       idle: 
-        image: mother.webp
+        image: Mama.webp
         width: 256
         height: 256
     style:
       color: white
     name: Mama
+  din:
+    sprites:
+      idle: 
+        image: Din.webp
+        width: 256
+        height: 256
+    style:
+      color: white
+    name: Din
+
+  
 
