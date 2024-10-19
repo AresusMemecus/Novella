@@ -17,15 +17,15 @@ characters:
         color: white
         font-family: Comic Sans MS
     name: Oliver
-  assistant:
+  assistent:
     sprites:
       idle: 
-        image: Assistant.webp
+        image: Assistent.webp
         width: 256
         height: 256
     style:
       color: white
-    name: Assistant
+    name: Assistent
   assistentMerti:
     sprites:
       idle: 
@@ -47,12 +47,12 @@ characters:
   adelina:
     sprites:
       idle: 
-        image: Adelind.webp
+        image: Adelina.webp
         width: 256
         height: 256
     style:
       color: white
-    name: Adelaida
+    name: Adelaina
   mama:
     sprites:
       idle: 
